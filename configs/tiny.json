@@ -1,0 +1,15 @@
+{
+  "backend": "tiny",
+  "dim": 64,
+  "max_history": 128,
+  "steps": 3,
+  "episode_size": 8,
+  "kappa": 0.5,
+  "temperature": 0.3,
+  "restore_threshold": 0.5,
+  "budget_ratio": 0.3,
+  "lr": 0.001,
+  "epochs": 3,
+  "batch_size": 4,
+  "seed": 42
+}
